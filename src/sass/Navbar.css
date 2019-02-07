@@ -1,0 +1,11 @@
+.logo img{
+
+  padding-left: 100px;
+}
+.sign__up{
+  padding-left: 20px;
+}
+.sign__up .nav-link{
+  border: 2px solid #EF476F;
+  border-radius: 20px;
+}

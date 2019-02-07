@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif !important;
+  font-style: normal;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgba(gray, 0.2);
+  height: 100vh
+}
