@@ -14,7 +14,7 @@ import image06 from "../assets/image06.svg";
 import avatar01 from "../assets/avatar01.svg";
 import avatar02 from "../assets/avatar02.svg";
 import avatar03 from "../assets/avatar03.svg";
-import { Container, Row, Col,Card, CardImg, CardText, CardBody,
+import { Container, Row, Col, Card, CardImg, CardText, CardBody,
   CardTitle, Button } from 'reactstrap';
 
 class Layout extends Component{
