@@ -1,39 +1,29 @@
+
+
 .hero{
-  background-image: url('../assets/hero-bg.svg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  width: auto;
-  height: 829px;
-  position: relative;
-  overflow: visible;
-}
-@media (max-width: 740px) {
-  html,
-  body,
-  header,
- {
-    height: 1000px;
-  }
-}
-@media (min-width: 800px) and (max-width: 850px) {
-  html,
-  body,
-  header,
- {
-    height: 600px;
-  }
+
+  -webkit-background-size: 100% auto;
+  -moz-background-size: 100% auto;
+  -o-background-size: 100% auto;
+   background-size: 100% auto;
+   background-repeat: no-repeat;
+   overflow: hidden;
+    height: 500px;
+    background-color: #073B4C;
+    width: auto;
 }
 
+
 .hero__content{
-  padding-top: 200px;
-  padding-left: 50px;
+  padding-top: 100px;
+  padding-left: 30px;
   font-family: 'Open Sans', sans-serif;
   font-style: normal;
-  width: 545px;
+
+}
+
+ .hero img{
+  padding-top: 80px;
 }
 
 input[type=text]{
@@ -52,10 +42,7 @@ input::placeholder{
 }
 
 .hero__btn{
-  left: 0%;
-  right: 0%;
-  top: 0%;
-  bottom: 0%;
+
   background: #EF476F !important;
   border-radius: 4px;
   width: 200px;

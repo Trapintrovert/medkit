@@ -64,8 +64,8 @@ class Footer extends Component{
             </Col>
           </Row>
           <Row>
-            <Col xs={{size:12}} lg={{size:12}} className="copyright">
-              <img src={logo} alt="Footer Logo"/>
+            <Col xs={{size:8}} lg={{size:12}} className="copyright">
+          {  /*  <img src={logo} alt="Footer Logo"/> */}
               <p className="text-center">
                 Copyright © 2019, LacidemKit. All right reserved
               </p>
