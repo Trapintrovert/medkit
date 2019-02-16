@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/medkit/precache-manifest.58cecf45098c0224f82800566ff7e8fe.js"
+  "/medkit/precache-manifest.801cc32dfea84b090dbcd5393faa35fe.js"
 );
 
 workbox.clientsClaim();

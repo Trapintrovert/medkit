@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/medkit/static/media/image06.ff58ebfe.svg"
   },
   {
-    "revision": "ad73effe5f7506fa9f60",
-    "url": "/medkit/static/js/runtime~main.ad73effe.js"
+    "revision": "3762fb528455b4e24b92",
+    "url": "/medkit/static/js/runtime~main.3762fb52.js"
   },
   {
     "revision": "519eeaf6f104fe8abca4def4e91e4046",
@@ -76,19 +76,19 @@ self.__precacheManifest = [
     "url": "/medkit/static/js/2.2756f53f.chunk.js"
   },
   {
-    "revision": "349981f70e962045b3b4",
-    "url": "/medkit/static/js/1.349981f7.chunk.js"
+    "revision": "5cd3e653715b862b9c99",
+    "url": "/medkit/static/js/1.5cd3e653.chunk.js"
   },
   {
     "revision": "2756f53f45a26d840234",
     "url": "/medkit/static/css/2.8d800cc2.chunk.css"
   },
   {
-    "revision": "349981f70e962045b3b4",
-    "url": "/medkit/static/css/1.83016741.chunk.css"
+    "revision": "5cd3e653715b862b9c99",
+    "url": "/medkit/static/css/1.05bfb689.chunk.css"
   },
   {
-    "revision": "4ebe343596d9baa3742bcd1491da9589",
+    "revision": "fc7f6a53f3e98294a36a4b2844af3644",
     "url": "/medkit/index.html"
   }
 ];
