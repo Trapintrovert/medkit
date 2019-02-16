@@ -11,7 +11,6 @@ class Hero extends Component {
       <div className="hero">
         <Container>
           <Row>
-
             <Col sm="6">
             <div className="hero__content">
                 <h1 className="text-white">Get timely access to Quality healthcare</h1>
@@ -27,14 +26,14 @@ class Hero extends Component {
                 </Form>
                 </div>
             </Col>
-
-
             <Col sm="6">
               <img src={hero} alt="Hero Doctors" className="img-responsive hero__docs" />
             </Col>
+
           </Row>
 
         </Container>
+
       </div>
     );
   }
