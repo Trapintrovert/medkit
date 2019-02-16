@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2e89ff6257d8eb31409c0d2a59aee9ab",
-    "url": "/medkit/static/media/why-bg_2.2e89ff62.svg"
+    "revision": "95ae6e8d2fb536db1024a4e91e17b7ab",
+    "url": "/medkit/static/media/instagram.95ae6e8d.svg"
   },
   {
-    "revision": "edf20aab50d1691e8b88",
-    "url": "/medkit/static/js/main.edf20aab.chunk.js"
+    "revision": "d0ab7adf4b6a751ab8b3",
+    "url": "/medkit/static/js/main.d0ab7adf.chunk.js"
   },
   {
     "revision": "dcfa6cdc6bc87d5b595e636df8e2c939",
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/medkit/static/media/image06.ff58ebfe.svg"
   },
   {
-    "revision": "d1f980731f17e61cf467",
-    "url": "/medkit/static/js/runtime~main.d1f98073.js"
+    "revision": "ad73effe5f7506fa9f60",
+    "url": "/medkit/static/js/runtime~main.ad73effe.js"
   },
   {
-    "revision": "51dba2fceeb1fbcf2640c6f6c86e84b8",
-    "url": "/medkit/static/media/hero-bg.51dba2fc.svg"
+    "revision": "519eeaf6f104fe8abca4def4e91e4046",
+    "url": "/medkit/static/media/hero.519eeaf6.svg"
   },
   {
     "revision": "79f2cd6d99d0f23f86c6d87acdd0d2bf",
@@ -42,10 +42,6 @@ self.__precacheManifest = [
   {
     "revision": "4dec6ac397e808bbe5566a83821c519c",
     "url": "/medkit/static/media/whatsapp.4dec6ac3.svg"
-  },
-  {
-    "revision": "95ae6e8d2fb536db1024a4e91e17b7ab",
-    "url": "/medkit/static/media/instagram.95ae6e8d.svg"
   },
   {
     "revision": "918dfbb4f827603ae4e45e34179e756d",
@@ -76,23 +72,23 @@ self.__precacheManifest = [
     "url": "/medkit/static/js/3.3881845e.chunk.js"
   },
   {
-    "revision": "737a11b873e6e6d140d0",
-    "url": "/medkit/static/js/2.737a11b8.chunk.js"
+    "revision": "2756f53f45a26d840234",
+    "url": "/medkit/static/js/2.2756f53f.chunk.js"
   },
   {
-    "revision": "06f19914aa3bef3e36d0",
-    "url": "/medkit/static/js/1.06f19914.chunk.js"
+    "revision": "349981f70e962045b3b4",
+    "url": "/medkit/static/js/1.349981f7.chunk.js"
   },
   {
-    "revision": "737a11b873e6e6d140d0",
-    "url": "/medkit/static/css/2.52d96341.chunk.css"
+    "revision": "2756f53f45a26d840234",
+    "url": "/medkit/static/css/2.8d800cc2.chunk.css"
   },
   {
-    "revision": "06f19914aa3bef3e36d0",
-    "url": "/medkit/static/css/1.4b424739.chunk.css"
+    "revision": "349981f70e962045b3b4",
+    "url": "/medkit/static/css/1.83016741.chunk.css"
   },
   {
-    "revision": "e6d56866de8df334c100234de5924cae",
+    "revision": "4ebe343596d9baa3742bcd1491da9589",
     "url": "/medkit/index.html"
   }
 ];
